@@ -13,7 +13,11 @@ Para adicionar ícones ao seu layout, utilize as opções abaixo dependendo do s
 React Native (React Native Elements): Se você estiver trabalhando com React Native, pode utilizar o componente de Botão do React Native Elements junto com ícones do Material Design. Alguns dos ícones recomendados para a atividade incluem:
 
 flight
+
 home
+
 local-dining
+
 directions-car
+
 build
