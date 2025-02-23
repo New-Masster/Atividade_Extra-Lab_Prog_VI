@@ -21,4 +21,4 @@ React Native (React Native Elements): Se estiver utilizando React Native, o comp
 
 ### Resultado
 Confira abaixo a imagem do layout final do projeto:
-![Resultado](.src/assets/Resultado.jpg)
+![Resultado](./src/assets/Resultado.jpg)
