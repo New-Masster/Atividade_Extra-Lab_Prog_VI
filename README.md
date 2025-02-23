@@ -1,5 +1,6 @@
-I_Atividade_Extra-Lab_Prog_VI
-Montagem de um layout em React utilizando cores pré-definidas e ícones do Material Design ou do React Native Elements, conforme o framework utilizado.
+# I_Atividade_Extra-Lab_Prog_VI
+
+## Montagem de um layout em React utilizando cores pré-definidas e ícones do Material Design ou do React Native Elements, conforme o framework utilizado.
 
 Instruções
 Layout
