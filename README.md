@@ -1,23 +1,25 @@
 # I_Atividade_Extra-Lab_Prog_VI
 
-## Montagem de um layout em React utilizando cores pré-definidas e ícones do Material Design ou do React Native Elements, conforme o framework utilizado.
+## O objetivo desta atividade é criar um layout utilizando cores pré-definidas e ícones do Material Design ou do React Native Elements, conforme o framework escolhido.
 
 ### Instruções
 
 #### Layout
-O objetivo da atividade é criar o layout conforme especificado abaixo. Se estiver utilizando o React, você pode montar a interface com as cores e componentes indicados. Caso esteja utilizando o React Native, utilize os componentes adequados ao ambiente mobile.
+O intuito é criar um layout que siga as especificações fornecidas abaixo. Se você estiver utilizando React, deve montar a interface com as cores e componentes indicados. Caso esteja utilizando React Native, adapte os componentes ao ambiente mobile, garantindo uma interface responsiva e funcional.
+![Modelo](./src/assets/Modelo.jpg)
 
-#### Ícones
-Para adicionar ícones ao seu layout, utilize as opções abaixo dependendo do seu framework:
+#### Adicionando Ícones
+Para incluir ícones no seu layout, utilize os componentes recomendados de acordo com o seu framework:
 
-React Native (React Native Elements): Se você estiver trabalhando com React Native, pode utilizar o componente de Botão do React Native Elements junto com ícones do Material Design. Alguns dos ícones recomendados para a atividade incluem:
+React Native (React Native Elements): Se estiver utilizando React Native, o componente Button do React Native Elements pode ser usado, juntamente com ícones do Material Design. Alguns ícones sugeridos para essa atividade são:
 
-flight
+- flight
+- home
+- local-dining
+- directions-car
+- build
 
-home
+### Resultado
+Confira abaixo a imagem do layout final do projeto:
 
-local-dining
-
-directions-car
-
-build
+![Resultado](./src/assets/Resultado.jpg)
